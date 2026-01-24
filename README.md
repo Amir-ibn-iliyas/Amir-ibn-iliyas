@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 🚀 About Me :<br>🔭 I’m currently working on building performant, full-stack web applications using Next.js and TypeScript.<br><br>👯 I’m looking to collaborate on Open Source projects involving React Native or scalable Backend architectures.<br><br>🤝 I’m looking for help with mastering advanced Cloud Infrastructure (AWS/GCP) and CI/CD pipelines.<br><br>🌱 I’m currently learning advanced Unit Testing with Jest and exploring Serverless architectures.<br><br>💬 Ask me about React, State Management (Redux/React Query), or UI/UX design workflows in Figma.<br><br>⚡ Fun fact I enjoy bridging the gap between design and code—turning high-fidelity Dribbble inspirations into functional components.<br>
 
 
