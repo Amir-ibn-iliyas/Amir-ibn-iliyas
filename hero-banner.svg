@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 340" width="1000" height="340" role="img" aria-label="Amir ibn Iliyas — Full Stack Developer">
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#070A12"/><stop offset="58%" stop-color="#090E1A"/><stop offset="100%" stop-color="#130A14"/>
+  </linearGradient>
+  <radialGradient id="haze"><stop offset="0%" stop-color="#E62429" stop-opacity=".17"/><stop offset="100%" stop-color="#E62429" stop-opacity="0"/></radialGradient>
+  <linearGradient id="barline" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#E62429"/><stop offset="55%" stop-color="#1B72BE"/><stop offset="100%" stop-color="#1B72BE" stop-opacity="0"/>
+  </linearGradient>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1" fill="#8FA3BF" opacity=".035"/>
+  </pattern>
+  <style>
+    .m{font-family:'SF Mono','DejaVu Sans Mono',Consolas,'Courier New',monospace;font-size:15px}
+    .cmd{fill:#E8EEF7}.out{fill:#9DB0CB}.str{fill:#F0A202}.key{fill:#1B72BE}.dim{fill:#4E5D78}
+    .p{fill:#E62429;font-weight:bold}
+    .nm{fill:#FFFFFF;font-weight:bold;font-size:19px}
+    .cur{fill:#E62429;animation:bl 1.05s steps(1) infinite;animation-delay:4.7s;opacity:0}
+    @keyframes bl{0%,49%{opacity:1}50%,100%{opacity:0}}
+    .live{animation:lv 2.4s ease-in-out infinite}
+    @keyframes lv{0%,100%{opacity:.35}50%{opacity:1}}
+    @media (prefers-reduced-motion:reduce){.cur{animation:none;opacity:1}.live{animation:none}}
+  </style>
+  <clipPath id="k1"><rect x="0" y="58" width="0" height="30"><animate attributeName="width" from="0" to="1000" dur=".5s" begin=".35s" fill="freeze"/></rect></clipPath>
+  <clipPath id="k2"><rect x="0" y="88" width="0" height="32"><animate attributeName="width" from="0" to="1000" dur=".55s" begin=".95s" fill="freeze"/></rect></clipPath>
+  <clipPath id="k3"><rect x="0" y="126" width="0" height="30"><animate attributeName="width" from="0" to="1000" dur=".6s" begin="1.65s" fill="freeze"/></rect></clipPath>
+  <clipPath id="k4"><rect x="0" y="156" width="0" height="30"><animate attributeName="width" from="0" to="1000" dur=".8s" begin="2.3s" fill="freeze"/></rect></clipPath>
+  <clipPath id="k5"><rect x="0" y="194" width="0" height="30"><animate attributeName="width" from="0" to="1000" dur=".55s" begin="3.2s" fill="freeze"/></rect></clipPath>
+  <clipPath id="k6"><rect x="0" y="224" width="0" height="30"><animate attributeName="width" from="0" to="1000" dur=".8s" begin="3.8s" fill="freeze"/></rect></clipPath>
+</defs>
+
+<rect width="1000" height="340" fill="url(#bg)"/>
+<ellipse cx="880" cy="290" rx="400" ry="200" fill="url(#haze)"/>
+
+<!-- web watermark -->
+<g stroke="#E8EEF7" fill="none" stroke-width="1" opacity=".075">
+  <g transform="translate(866,196)">
+    <path d="M0 0 L0 -140 M0 0 L70 -121 M0 0 L121 -70 M0 0 L140 0 M0 0 L121 70 M0 0 L70 121 M0 0 L0 140 M0 0 L-70 121 M0 0 L-121 70 M0 0 L-140 0 M0 0 L-121 -70 M0 0 L-70 -121"/>
+    <path d="M0 -45 L23 -39 L39 -23 L45 0 L39 23 L23 39 L0 45 L-23 39 L-39 23 L-45 0 L-39 -23 L-23 -39 Z"/>
+    <path d="M0 -84 L42 -73 L73 -42 L84 0 L73 42 L42 73 L0 84 L-42 73 L-73 42 L-84 0 L-73 -42 L-42 -73 Z"/>
+    <path d="M0 -123 L61 -107 L107 -61 L123 0 L107 61 L61 107 L0 123 L-61 107 L-107 61 L-123 0 L-107 -61 L-61 -107 Z"/>
+  </g>
+</g>
+
+<!-- title bar -->
+<rect width="1000" height="40" fill="#0D1424"/>
+<rect y="39" width="1000" height="1.4" fill="url(#barline)"/>
+<circle cx="26" cy="20" r="5.5" fill="#E62429"/><circle cx="46" cy="20" r="5.5" fill="#F0A202"/><circle cx="66" cy="20" r="5.5" fill="#1B72BE"/>
+<g transform="translate(432,20) scale(.62)" stroke="#E62429" stroke-width="2" fill="none">
+  <path d="M0 0 L-11 -8 M0 0 L-13 0 M0 0 L-11 8 M0 0 L11 -8 M0 0 L13 0 M0 0 L11 8"/>
+  <ellipse cx="0" cy="1" rx="4.6" ry="6" fill="#E62429" stroke="none"/>
+</g>
+<text class="m" x="452" y="25" fill="#5A6B87" font-size="12">amir-ibn-iliyas — zsh</text>
+<circle class="live" cx="944" cy="20" r="4" fill="#1B72BE"/>
+<text class="m" x="956" y="24" fill="#3D4B66" font-size="11">live</text>
+
+<!-- session -->
+<g class="m">
+  <g clip-path="url(#k1)"><text x="30" y="78"><tspan class="p">❯</tspan><tspan class="cmd" dx="11">whoami</tspan></text></g>
+  <g clip-path="url(#k2)"><text class="nm" x="30" y="110">Amir ibn Iliyas <tspan class="dim">·</tspan> Full Stack Developer <tspan class="dim">·</tspan> UAE</text></g>
+
+  <g clip-path="url(#k3)"><text x="30" y="146"><tspan class="p">❯</tspan><tspan class="cmd" dx="11">cat stack.json</tspan></text></g>
+  <g clip-path="url(#k4)"><text class="out" x="30" y="176">[ <tspan class="str">"Next.js"</tspan>, <tspan class="str">"React"</tspan>, <tspan class="str">"TypeScript"</tspan>, <tspan class="str">"Node"</tspan>, <tspan class="str">"AWS"</tspan> ]</text></g>
+
+  <g clip-path="url(#k5)"><text x="30" y="214"><tspan class="p">❯</tspan><tspan class="cmd" dx="11">git status</tspan></text></g>
+  <g clip-path="url(#k6)"><text class="out" x="30" y="244"><tspan class="key">open to work</tspan> — building with purpose and tawakkul</text></g>
+
+  <text x="30" y="284"><tspan class="p">❯</tspan></text>
+  <rect class="cur" x="49" y="271" width="10" height="17"/>
+</g>
+
+<rect width="1000" height="340" fill="url(#scan)"/>
+
+<!-- status line -->
+<rect y="302" width="1000" height="38" fill="#0A1120"/>
+<line x1="0" y1="302" x2="1000" y2="302" stroke="#1C2740"/>
+<rect x="0" y="302" width="4" height="38" fill="#E62429"/>
+<text class="m" x="24" y="326" font-size="11.5" fill="#5A6B87">
+  main <tspan fill="#1B72BE">✓</tspan>  ·  next.js · react · node · typescript  ·  <tspan fill="#8FA3BF">united arab emirates</tspan>
+</text>
+<text class="m" x="976" y="326" font-size="11.5" fill="#3D4B66" text-anchor="end">utf-8 · ln 4, col 1</text>
+</svg>
