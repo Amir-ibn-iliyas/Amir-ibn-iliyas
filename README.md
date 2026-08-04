@@ -2,7 +2,7 @@
 
 <img src="./hero-banner.svg" alt="Amir ibn Iliyas — Full Stack Developer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=24&duration=3000&pause=700&color=E62429&center=true&vCenter=true&width=760&height=48&lines=Swinging+through+Next.js+%2B+TypeScript;Catching+bugs+before+they+hit+production;Design+to+code%2C+one+clean+commit+at+a+time;Building+with+Purpose+and+Tawakkul" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=24&duration=3000&pause=700&color=E62429&center=true&vCenter=true&width=760&height=48&lines=Swinging+through+Next.js+%2B+TypeScript;Catching+bugs+before+they+reach+production;Design+to+code%2C+one+clean+commit+at+a+time;Building+with+Purpose+and+Tawakkul" alt="typing intro" />
 
 <a href="https://www.linkedin.com/in/amir-iliyas-ahmad/">
   <img src="https://img.shields.io/badge/LinkedIn-1B72BE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -10,7 +10,7 @@
 <img src="https://img.shields.io/badge/UAE-E62429?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Based in UAE" />
 <img src="https://komarev.com/ghpvc/?username=Amir-ibn-iliyas&color=E62429&style=for-the-badge&label=WEB+VISITORS" alt="profile views" />
 
-<img src="./assets/web-divider.svg" alt="" width="100%" />
+<img src="./web-divider.svg" alt="" width="100%" />
 
 </div>
 
@@ -18,21 +18,21 @@
 
 ```ts
 const amir = {
-  role:      "Full Stack Developer",
-  base:      "United Arab Emirates",
-  building:  ["performant full-stack apps", "Next.js", "TypeScript"],
-  learning:  ["advanced unit testing with Jest", "serverless architecture"],
-  wants:     "AWS / GCP infrastructure + CI/CD mastery",
-  openTo:    ["open source", "React Native", "scalable backends"],
-  askMeAbout:["React", "Redux & React Query", "UI/UX workflows in Figma"],
-  motto:     "Design in Figma, ship in production.",
+  role:       "Full Stack Developer",
+  base:       "United Arab Emirates",
+  building:   ["performant full-stack apps", "Next.js", "TypeScript"],
+  learning:   ["advanced unit testing with Jest", "serverless architecture"],
+  wants:      "AWS / GCP infrastructure + CI/CD mastery",
+  openTo:     ["open source", "React Native", "scalable backends"],
+  askMeAbout: ["React", "Redux & React Query", "UI/UX workflows in Figma"],
+  motto:      "Design in Figma, ship in production.",
 };
 ```
 
 > **Fun fact —** I like closing the gap between design and code: high-fidelity Dribbble
 > inspiration goes in, working components come out.
 
-<div align="center"><img src="./assets/web-divider.svg" alt="" width="100%" /></div>
+<div align="center"><img src="./web-divider.svg" alt="" width="100%" /></div>
 
 ## `02` &nbsp; The Suit &nbsp;<sub>tech stack</sub>
 
@@ -76,7 +76,7 @@ const amir = {
 <img src="https://img.shields.io/badge/Sentry-0B0B0F?style=for-the-badge&logo=sentry&logoColor=white" />
 <img src="https://img.shields.io/badge/Nodemon-1B72BE?style=for-the-badge&logo=nodemon&logoColor=white" />
 
-<img src="./assets/web-divider.svg" alt="" width="100%" />
+<img src="./web-divider.svg" alt="" width="100%" />
 
 </div>
 
@@ -99,17 +99,17 @@ const amir = {
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Amir-ibn-iliyas/Amir-ibn-iliyas/output/snake-dark.svg" />
-  <img src="https://raw.githubusercontent.com/Amir-ibn-iliyas/Amir-ibn-iliyas/output/snake.svg" alt="Contribution snake" width="100%" />
-</picture>
+<img src="https://raw.githubusercontent.com/Amir-ibn-iliyas/Amir-ibn-iliyas/output/snake.svg" alt="Contribution snake" width="100%" />
 
-<img src="./assets/web-divider.svg" alt="" width="100%" />
+<img src="./web-divider.svg" alt="" width="100%" />
 
 ## `05` &nbsp; Send a Signal
 
+<a href="https://amir-ibn-iliyas.github.io/portfolio/">
+  <img src="https://img.shields.io/badge/Live_Portfolio-E62429?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio" />
+</a>
 <a href="https://www.linkedin.com/in/amir-iliyas-ahmad/">
-  <img src="https://img.shields.io/badge/Let's_build_something-E62429?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <img src="https://img.shields.io/badge/Let's_build_something-1B72BE?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
 </a>
 
 <br/><br/>
