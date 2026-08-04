@@ -14,7 +14,7 @@
 
 </div>
 
-## `01` &nbsp; The Origin Story
+## <samp>❯ cat about.md</samp>
 
 ```ts
 const amir = {
@@ -34,7 +34,7 @@ const amir = {
 
 <div align="center"><img src="./web-divider.svg" alt="" width="100%" /></div>
 
-## `02` &nbsp; The Suit &nbsp;<sub>tech stack</sub>
+## <samp>❯ ls ~/stack</samp>
 
 <div align="center">
 
@@ -80,7 +80,7 @@ const amir = {
 
 </div>
 
-## `03` &nbsp; Spider-Sense &nbsp;<sub>the stats</sub>
+## <samp>❯ git log --stat</samp>
 
 <div align="center">
 
@@ -95,7 +95,7 @@ const amir = {
 
 </div>
 
-## `04` &nbsp; Caught in the Web &nbsp;<sub>contribution snake</sub>
+## <samp>❯ ./snake --run</samp>
 
 <div align="center">
 
@@ -103,7 +103,7 @@ const amir = {
 
 <img src="./web-divider.svg" alt="" width="100%" />
 
-## `05` &nbsp; Send a Signal
+## <samp>❯ contact --connect</samp>
 
 <a href="https://amir-ibn-iliyas.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Live_Portfolio-E62429?style=for-the-badge&logo=vercel&logoColor=white" alt="Live portfolio" />
