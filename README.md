@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero-banner.svg" alt="Amir ibn Iliyas — Full Stack Developer" width="100%" />
+<img src="./hero-banner.svg" alt="Amir ibn Iliyas — Full Stack Developer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Bungee&size=24&duration=3000&pause=700&color=E62429&center=true&vCenter=true&width=760&height=48&lines=Swinging+through+Next.js+%2B+TypeScript;Catching+bugs+before+they+hit+production;Design+to+code%2C+one+clean+commit+at+a+time;Building+with+Purpose+and+Tawakkul" alt="typing intro" />
 
