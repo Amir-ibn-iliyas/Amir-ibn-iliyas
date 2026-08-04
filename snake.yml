@@ -5,8 +5,7 @@ on:
     - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
-    branches:
-      - main
+    branches: [main]
 
 jobs:
   build:
@@ -20,7 +19,6 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/snake.svg?palette=github-dark&color_snake=#E62429&color_dots=#0B1020,#1B72BE,#3E8FD6,#9CC7EE,#E8EEF7
-            dist/snake-dark.svg?palette=github-dark&color_snake=#E62429&color_dots=#0B1020,#1B72BE,#3E8FD6,#9CC7EE,#E8EEF7
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
