@@ -2,7 +2,7 @@
 
 <img src="./hero-banner.svg" alt="Amir ibn Iliyas — Full Stack Developer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Bungee&size=24&duration=3000&pause=700&color=E62429&center=true&vCenter=true&width=760&height=48&lines=Swinging+through+Next.js+%2B+TypeScript;Catching+bugs+before+they+reach+production;Design+to+code%2C+one+clean+commit+at+a+time;Building+with+Purpose+and+Tawakkul" alt="typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2800&pause=800&color=E62429&center=true&vCenter=true&width=760&height=44&lines=%3E+building+performant+full-stack+apps;%3E+next.js+%C2%B7+react+%C2%B7+node+%C2%B7+typescript;%3E+design+to+code%2C+one+clean+commit+at+a+time;%3E+building+with+purpose+and+tawakkul" alt="typing intro" />
 
 <a href="https://www.linkedin.com/in/amir-iliyas-ahmad/">
   <img src="https://img.shields.io/badge/LinkedIn-1B72BE?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -84,14 +84,12 @@ const amir = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amir-ibn-iliyas&show_icons=true&include_all_commits=true&count_private=true&hide_border=false&border_radius=12&title_color=E62429&icon_color=1B72BE&text_color=C9D4E4&bg_color=05060B&border_color=E62429" alt="GitHub stats" />
-<img height="170" src="https://streak-stats.demolab.com?user=Amir-ibn-iliyas&border_radius=12&background=05060B&border=E62429&stroke=1B72BE&ring=E62429&fire=F0A202&currStreakNum=E62429&currStreakLabel=E8EEF7&sideNums=E8EEF7&sideLabels=C9D4E4&dates=8FA3BF" alt="Streak" />
+<img height="240" src="./stats.svg" alt="GitHub stats" />
+<img height="240" src="./langs.svg" alt="Top languages" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amir-ibn-iliyas&layout=compact&langs_count=10&hide_border=false&border_radius=12&title_color=E62429&text_color=C9D4E4&bg_color=05060B&border_color=E62429" alt="Top languages" />
+<img height="200" src="https://streak-stats.demolab.com?user=Amir-ibn-iliyas&border_radius=12&background=090E1A&border=1C2740&stroke=1C2740&ring=E62429&fire=F0A202&currStreakNum=E62429&currStreakLabel=E8EEF7&sideNums=E8EEF7&sideLabels=9DB0CB&dates=4E5D78" alt="Contribution streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir-ibn-iliyas&bg_color=05060B&color=E8EEF7&line=E62429&point=1B72BE&area=true&area_color=E62429&title_color=E62429&hide_border=false&border_color=E62429&radius=12" alt="Contribution activity graph" width="100%" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=Amir-ibn-iliyas&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=6" alt="Trophies" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir-ibn-iliyas&bg_color=090E1A&color=E8EEF7&line=E62429&point=1B72BE&area=true&area_color=E62429&title_color=E62429&hide_border=false&border_color=1C2740&radius=12" alt="Contribution activity graph" width="100%" />
 
 </div>
 
