@@ -21,25 +21,29 @@
   <text class="m" x="22" y="70"><tspan class="ps">❯</tspan><tspan class="cm" dx="10">gh langs --top 6</tspan></text>
   <clipPath id="barclip"><rect x="26" y="92" width="468" height="16" rx="8"/></clipPath>
   <g clip-path="url(#barclip)">
-    <rect class="grow" x="26.0" y="92" width="355.0" height="16" fill="#f1e05a" style="animation-delay:0.00s"/>
-    <rect class="grow" x="381.0" y="92" width="45.4" height="16" fill="#663399" style="animation-delay:0.09s"/>
-    <rect class="grow" x="426.4" y="92" width="45.1" height="16" fill="#e34c26" style="animation-delay:0.18s"/>
-    <rect class="grow" x="471.4" y="92" width="22.6" height="16" fill="#3178c6" style="animation-delay:0.27s"/>
+    <rect class="grow" x="26.0" y="92" width="349.7" height="16" fill="#f1e05a" style="animation-delay:0.00s"/>
+    <rect class="grow" x="375.7" y="92" width="44.7" height="16" fill="#663399" style="animation-delay:0.09s"/>
+    <rect class="grow" x="420.4" y="92" width="44.4" height="16" fill="#e34c26" style="animation-delay:0.18s"/>
+    <rect class="grow" x="464.9" y="92" width="22.2" height="16" fill="#3178c6" style="animation-delay:0.27s"/>
+    <rect class="grow" x="487.1" y="92" width="6.9" height="16" fill="#3572A5" style="animation-delay:0.36s"/>
   </g>
   <circle cx="32" cy="142" r="5" fill="#f1e05a"/>
   <text class="m" x="48" y="146" fill="#9DB0CB">JavaScript</text>
-  <text class="m" x="494" y="146" text-anchor="end" fill="#FFFFFF" font-weight="bold">75.8%</text>
+  <text class="m" x="494" y="146" text-anchor="end" fill="#FFFFFF" font-weight="bold">74.7%</text>
   <circle cx="32" cy="168" r="5" fill="#663399"/>
   <text class="m" x="48" y="172" fill="#9DB0CB">CSS</text>
-  <text class="m" x="494" y="172" text-anchor="end" fill="#FFFFFF" font-weight="bold">9.7%</text>
+  <text class="m" x="494" y="172" text-anchor="end" fill="#FFFFFF" font-weight="bold">9.6%</text>
   <circle cx="32" cy="194" r="5" fill="#e34c26"/>
   <text class="m" x="48" y="198" fill="#9DB0CB">HTML</text>
-  <text class="m" x="494" y="198" text-anchor="end" fill="#FFFFFF" font-weight="bold">9.6%</text>
+  <text class="m" x="494" y="198" text-anchor="end" fill="#FFFFFF" font-weight="bold">9.5%</text>
   <circle cx="32" cy="220" r="5" fill="#3178c6"/>
   <text class="m" x="48" y="224" fill="#9DB0CB">TypeScript</text>
   <text class="m" x="494" y="224" text-anchor="end" fill="#FFFFFF" font-weight="bold">4.8%</text>
-  <text class="m" x="22" y="258"><tspan class="ps">❯</tspan></text>
-  <rect class="cur" x="40" y="245" width="9" height="15"/>
+  <circle cx="32" cy="246" r="5" fill="#3572A5"/>
+  <text class="m" x="48" y="250" fill="#9DB0CB">Python</text>
+  <text class="m" x="494" y="250" text-anchor="end" fill="#FFFFFF" font-weight="bold">1.5%</text>
+  <text class="m" x="22" y="284"><tspan class="ps">❯</tspan></text>
+  <rect class="cur" x="40" y="271" width="9" height="15"/>
   <rect y="298" width="520" height="32" fill="#0A1120"/>
   <line x1="0" y1="298" x2="520" y2="298" stroke="#1C2740"/>
   <rect x="0" y="298" width="4" height="32" fill="#E62429"/>
