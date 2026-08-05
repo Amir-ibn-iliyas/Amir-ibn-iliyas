@@ -105,11 +105,7 @@ const amir = {
 <img src="./graph-2024.svg" width="100%" alt="Contributions in 2024" />
 </details>
 
-<details>
-<summary><samp>❯ gh graph --year 2023</samp></summary>
-<br/>
-<img src="./graph-2023.svg" width="100%" alt="Contributions in 2023" />
-</details>
+
 
 ## <samp>❯ ./snake --run</samp>
 
