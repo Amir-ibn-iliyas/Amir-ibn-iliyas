@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 330" width="520" height="330" role="img" aria-label="Amir-ibn-iliyas — gh stats">
+<defs>
+  <style>
+    .m{font-family:'SF Mono','DejaVu Sans Mono',Consolas,'Courier New',monospace;font-size:13px}
+    .lb{fill:#9DB0CB} .vl{fill:#FFFFFF;font-weight:bold} .dm{fill:#4E5D78}
+    .ps{fill:#E62429;font-weight:bold} .cm{fill:#E8EEF7}
+    .cur{fill:#E62429;animation:bl 1.05s steps(1) infinite}
+    @keyframes bl{0%,49%{opacity:1}50%,100%{opacity:0}}
+    .grow{animation:gw 1.1s cubic-bezier(.2,.8,.3,1) forwards;transform-origin:left center}
+    @keyframes gw{from{transform:scaleX(0)}to{transform:scaleX(1)}}
+    @media (prefers-reduced-motion:reduce){.cur{animation:none}.grow{animation:none}}
+  </style>
+  <clipPath id="round"><rect width="520" height="330" rx="12"/></clipPath>
+</defs>
+<g clip-path="url(#round)">
+  <rect width="520" height="330" fill="#090E1A"/>
+  <rect width="520" height="38" fill="#0D1424"/>
+  <line x1="0" y1="38" x2="520" y2="38" stroke="#1C2740"/>
+  <circle cx="20" cy="19" r="5" fill="#E62429"/><circle cx="38" cy="19" r="5" fill="#F0A202"/><circle cx="56" cy="19" r="5" fill="#1B72BE"/>
+  <text class="m" x="260.0" y="24" text-anchor="middle" fill="#4E5D78" font-size="11">Amir-ibn-iliyas — gh stats</text>
+  <text class="m" x="22" y="70"><tspan class="ps">❯</tspan><tspan class="cm" dx="10">gh stats --user Amir-ibn-iliyas</tspan></text>
+  <text class="m" x="26" y="100" fill="#9DB0CB">total contributions</text>
+  <text class="m" x="494" y="100" text-anchor="end" fill="#4E5D78" font-size="10.5">past year</text>
+  <text class="m" x="424" y="100" text-anchor="end" font-weight="bold" fill="#FFFFFF">852</text>
+  <text class="m" x="26" y="126" fill="#9DB0CB">commits</text>
+  <text class="m" x="494" y="126" text-anchor="end" fill="#4E5D78" font-size="10.5">past year</text>
+  <text class="m" x="424" y="126" text-anchor="end" font-weight="bold" fill="#FFFFFF">122</text>
+  <text class="m" x="26" y="152" fill="#9DB0CB">pull requests</text>
+  <text class="m" x="494" y="152" text-anchor="end" font-weight="bold" fill="#FFFFFF">0</text>
+  <text class="m" x="26" y="178" fill="#9DB0CB">code reviews</text>
+  <text class="m" x="494" y="178" text-anchor="end" font-weight="bold" fill="#FFFFFF">0</text>
+  <text class="m" x="26" y="204" fill="#9DB0CB">issues opened</text>
+  <text class="m" x="494" y="204" text-anchor="end" font-weight="bold" fill="#FFFFFF">0</text>
+  <text class="m" x="26" y="230" fill="#9DB0CB">public repositories</text>
+  <text class="m" x="494" y="230" text-anchor="end" font-weight="bold" fill="#FFFFFF">24</text>
+  <text class="m" x="26" y="256" fill="#9DB0CB">stars earned</text>
+  <text class="m" x="494" y="256" text-anchor="end" font-weight="bold" fill="#FFFFFF">1</text>
+  <text class="m" x="26" y="282" fill="#9DB0CB">followers</text>
+  <text class="m" x="494" y="282" text-anchor="end" font-weight="bold" fill="#FFFFFF">2</text>
+  <text class="m" x="22" y="316"><tspan class="ps">❯</tspan></text>
+  <rect class="cur" x="40" y="303" width="9" height="15"/>
+  <rect y="298" width="520" height="32" fill="#0A1120"/>
+  <line x1="0" y1="298" x2="520" y2="298" stroke="#1C2740"/>
+  <rect x="0" y="298" width="4" height="32" fill="#E62429"/>
+  <text class="m" x="22" y="318" fill="#4E5D78" font-size="10.5">Amir-ibn-iliyas</text>
+  <text class="m" x="500" y="318" text-anchor="end" fill="#4E5D78" font-size="10.5">updated 2026-08-05 08:17 UTC</text>
+</g>
+</svg>
