@@ -84,28 +84,14 @@ const amir = {
 
 <div align="center">
 
-<img height="250" src="./stats.svg" alt="GitHub stats" />
-<img height="250" src="./langs.svg" alt="Top languages" />
+<img height="240" src="./stats.svg" alt="GitHub stats" />
+<img height="240" src="./langs.svg" alt="Top languages" />
 
-<img src="./streak.svg" width="100%" alt="Contribution streaks" />
+<!-- <img height="200" src="https://streak-stats.demolab.com?user=Amir-ibn-iliyas&border_radius=12&background=090E1A&border=1C2740&stroke=1C2740&ring=E62429&fire=F0A202&currStreakNum=E62429&currStreakLabel=E8EEF7&sideNums=E8EEF7&sideLabels=9DB0CB&dates=4E5D78" alt="Contribution streak" />
 
-<img src="./graph-2026.svg" width="100%" alt="Contributions in 2026" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amir-ibn-iliyas&bg_color=090E1A&color=E8EEF7&line=E62429&point=1B72BE&area=true&area_color=E62429&title_color=E62429&hide_border=false&border_color=1C2740&radius=12" alt="Contribution activity graph" width="100%" /> -->
 
 </div>
-
-<details>
-<summary><samp>❯ gh graph --year 2025</samp></summary>
-<br/>
-<img src="./graph-2025.svg" width="100%" alt="Contributions in 2025" />
-</details>
-
-<details>
-<summary><samp>❯ gh graph --year 2024</samp></summary>
-<br/>
-<img src="./graph-2024.svg" width="100%" alt="Contributions in 2024" />
-</details>
-
-
 
 ## <samp>❯ ./snake --run</samp>
 
