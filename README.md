@@ -14,8 +14,6 @@
 
 </div>
 
-## <samp>❯ cat about.md</samp>
-
 ```ts
 const amir = {
   role:       "Full Stack Developer",
@@ -33,8 +31,6 @@ const amir = {
 > inspiration goes in, working components come out.
 
 <div align="center"><img src="./web-divider.svg" alt="" width="100%" /></div>
-
-## <samp>❯ ls ~/stack</samp>
 
 <div align="center">
 
@@ -80,8 +76,6 @@ const amir = {
 
 </div>
 
-## <samp>❯ git log --stat</samp>
-
 <div align="center">
 
 <img height="240" src="./stats.svg" alt="GitHub stats" />
@@ -93,7 +87,7 @@ const amir = {
 
 </div>
 
-## <samp>❯ ./snake --run</samp>
+
 
 <div align="center">
 
